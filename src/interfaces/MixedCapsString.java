@@ -10,9 +10,9 @@ public class MixedCapsString extends SpecialString {
 	@Override
 	public String funkifyText() {
 		// TODO Auto-generated method stub
+		s = "tHiS Is aLsO A TeSt";
 		StringBuilder something = new StringBuilder(s);
-		something.
-		return null;
+		return something.toString();
 	}
 
 
